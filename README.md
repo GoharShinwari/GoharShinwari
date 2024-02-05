@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goharshinwari&label=Profile%20views&color=0e75b6&style=flat" alt="goharshinwari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goharshinwari" alt="goharshinwari" /></a> </p>
-
 - 🌱 I’m currently learning **TypeScript!**
 
 - 👨‍💻 All of my projects and resume are available at [http://goharworld.org/](http://goharworld.org/)
